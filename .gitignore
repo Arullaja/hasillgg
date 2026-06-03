@@ -1,0 +1,9 @@
+node_modules/
+.wwebjs_auth/
+.wwebjs_cache/
+qr.txt
+.env
+*.log
+tokens/
+.vscode/
+package-lock.json
